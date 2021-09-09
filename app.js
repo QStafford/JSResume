@@ -9,5 +9,5 @@ console.log('Name: Quincy Stafford')
 console.log('Career: Full Stack Development Student' )
 console.log('Description: I am an introverted gaming adict procrastinator')
 
-
+console.log('')
 console.log('My Interests:')
