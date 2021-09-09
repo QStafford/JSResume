@@ -15,3 +15,6 @@ console.log('1. Video Games')
 console.log('2. Coding')
 console.log('3. Switch Configuration')
 console.log('4. Exercise')
+
+console.log('')
+console.log('My Previous Experience:')
