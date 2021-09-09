@@ -11,3 +11,7 @@ console.log('Description: I am an introverted gaming adict procrastinator')
 
 console.log('')
 console.log('My Interests:')
+console.log('* Video Games')
+console.log('* Coding')
+console.log('* Switch Configuration')
+console.log('* Exercise')
