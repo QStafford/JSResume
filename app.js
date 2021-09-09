@@ -18,3 +18,6 @@ console.log('4. Exercise')
 
 console.log('')
 console.log('My Previous Experience:')
+console.log('* Configured Juniper, Avaya, and Brocade switches')
+console.log('* Intermediate Knowledge of Python, CSS, C#, JavaScript, SQL, React, and Java')
+console.log('* Network Administrator at Intrepid Studios')
