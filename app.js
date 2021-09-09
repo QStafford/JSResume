@@ -4,8 +4,9 @@
 //Interests
 //Past positions including company/place ,name ,title, short desc of duties
 //Skills "BAM" = cool
+let Name = 'Quincy Stafford'
 
-console.log('Name: Quincy Stafford')
+console.log(Name.toUpperCase())
 console.log('Career: Full Stack Development Student' )
 console.log('Description: I am an introverted gaming adict procrastinator')
 
