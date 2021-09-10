@@ -22,9 +22,9 @@ function displayPosition(compName, jobtitle, desc) {
     console.log(jobtitle,'at', compName, '-', desc )
 }
 console.log('My Previous Experience:')
-console.log('* Configured Juniper, Avaya, and Brocade switches')
-console.log('* Intermediate Knowledge of Python, CSS, C#, JavaScript, SQL, React, and Java')
-console.log('* Network Administrator at Intrepid Studios')
+console.log(displayPosition('USAF', 'Cyber Transport Specialist', 'Configured Juniper, Avaya, and Brocade Switches'))
+console.log(displayPosition('UPS', 'Package Handler', 'Handle packages and processing them to be moved in to parcel trucks and distributed to the public'))
+console.log(displayPosition('Jacks', 'Team Memeber', 'Clean, Unload and process inbound freight, Process food, Cook and assemblew food'))
 
 console.log('')
 console.log('My Skillz:')
