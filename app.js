@@ -18,6 +18,9 @@ console.log('3. Switch Configuration')
 console.log('4. Exercise')
 
 console.log('')
+function displayPosition(compName, jobtitle, desc) {
+    console.log(jobtitle,'at', compName, '-', desc )
+}
 console.log('My Previous Experience:')
 console.log('* Configured Juniper, Avaya, and Brocade switches')
 console.log('* Intermediate Knowledge of Python, CSS, C#, JavaScript, SQL, React, and Java')
